@@ -1,4 +1,4 @@
-package Chapters.`5`
+package Chapters.`5_Hash_tables`
 
 import java.util.Hashtable
 
